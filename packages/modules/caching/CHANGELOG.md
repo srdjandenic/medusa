@@ -1,5 +1,12 @@
 # @medusajs/caching
 
+## 2.22.4
+
+### Patch Changes
+
+- Updated dependencies [[`3a0cbbb`](https://github.com/medusajs/medusa/commit/3a0cbbb89ff547928a5a98365a4beab16bd57d6f)]:
+  - @medusajs/framework@2.22.4
+
 ## 2.22.3
 
 ### Patch Changes
